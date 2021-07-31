@@ -1,0 +1,17 @@
+
+* {
+    background: #d6e7e7;
+    font-family: 'Roboto', sans-serif;
+}
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    border-color:gray ;
+    border-width:5px;
+    width: 20%;
+}
+
+
+h1, h2, h3{
+    color: #7C83FD;
+}
